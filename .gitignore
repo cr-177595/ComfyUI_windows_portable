@@ -1,5 +1,2 @@
-# ComfyUI submodule - will be added as git submodule
-ComfyUI/
-
 # python_embeded - will be handled with Git LFS
 python_embeded/
