@@ -1,1 +1,4 @@
 # python_embeded handled with Git LFS - no longer ignored
+
+# Model files
+*.safetensors
